@@ -10,8 +10,8 @@ You won’t.
 \
 \
 To successfully overcome the challenges in a startup, you need:
-- A deeply emotional, unyielding commitment to solve a problem
-- The ability to do painfully vulnerable self-assessments to know if you’re the one to solve it.
+  - A deeply emotional, unyielding commitment to solve a problem
+  - The ability to do painfully vulnerable self-assessments to know if you’re the one to solve it.
 \
 \
 This commitment flows from a well that lies deep within someone’s character. This well is created when formational experiences happen over years.
@@ -25,7 +25,7 @@ For the people who learn from these experiences and thrive, they create in the p
 \
 The hard part is being patient and honest enough to keep looking until you find your special connection.
 \
-\
+
 ## Finding A Problem
 To find your problem area, figure out what you love to do and what change you want to create. Ask your mentors what they thought you’d end up doing when you first met. Ask them what you enjoyed most in high school and undergrad. Ask people you’re close to what they associate with you. Ask them what you really care about. Ask them for the one-liner they use to describe you.
 \
