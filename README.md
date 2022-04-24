@@ -37,7 +37,9 @@ Being a founder is like “chewing glass and staring into the abyss”[0], but w
 \
 \
 \
+\
 Special thanks to Markus Strasser and Lauren Dai for their help.
+\
 \
 [0] Elon
 
