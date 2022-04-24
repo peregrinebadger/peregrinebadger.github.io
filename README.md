@@ -33,7 +33,12 @@ Vulnerable interviews can also create a deep emotional connection to solving a p
 Finding ideas that resonate with you takes time. It can be lonely to do alone, and too constrained with a potential cofounder. Often the best setups are informal get-togethers where people share what they’re exploring, without trying to impress anyone. [Calvin](https://www.linkedin.com/in/calvinfo/) is running one of these get-togethers in NYC right now.
 
 Being a founder is like “chewing glass and staring into the abyss”[0], but with the right emotional connection to solving a problem, the glass is nourishing, and the abyss sparkles.
-
+\
+\
+\
+\
+Special thanks to Markus Strasser and Lauren Dai for their help.
+\
 [0] Elon
 
 
