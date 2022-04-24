@@ -26,16 +26,16 @@ Ask yourself why you chose your major and your past jobs. And ask yourself what 
 
 It could be there’s not a specific problem that comes into focus. If curing lung cancer was your life’s work, you’d probably know it. But patterns will emerge, and you can begin to figure out what sort of mission you might find deeply meaningful.
 
-Cast a wide net. When the Cobalt Robotics founders started out, they spent months interviewing people across a variety of industries, asking about pain points and existing solutions, before they stumbled onto something they both love: building robots to solve problems for people. Security was almost incidental at the time, but it provided a path to more general-purpose robots that inspired us all as an early team.
+Cast a wide net. When the [Cobalt Robotics](https://www.linkedin.com/company/cobaltrobotics/) founders started out, they spent months interviewing people across a variety of industries, asking about pain points and existing solutions, before they stumbled onto something they both love: building robots to solve problems for people. Security was almost incidental at the time, but it provided a path to more general-purpose robots that inspired us all as an early team.
 
-Vulnerable interviews can also create a deep emotional connection to solving a problem. When the Cocoon founders started out, they didn’t have a deep connection to parental leave. At the time, none of the founders had any children. What they did have, was a personal connection to nearing motherhood, and an emotional openness to new ideas. When friends shared the emotional distress they experienced while trying to take leave: “Filing for maternity leave on my laptop while getting wheeled into a C-section” the founders were inspired to build tools to make the experience better.   
+Vulnerable interviews can also create a deep emotional connection to solving a problem. When the [Cocoon](https://www.linkedin.com/company/meetcocoon/)  founders started out, they didn’t have a deep connection to parental leave. At the time, none of the founders had any children. What they did have was a personal connection to nearing motherhood and an emotional openness to new ideas. When a friend shared the emotional distress of trying to take leave “Filing for maternity leave on my laptop while getting wheeled into a C-section” the founders were inspired to build software to make the experience better.   
 
-Finding ideas that resonate with you takes time. It can be lonely to do alone, and too constrained with a potential cofounder. Often the best setups are informal get-togethers where people share what they’re exploring, without trying to impress anyone. Calvin [link] is running one of these get-togethers in NYC right now.
+Finding ideas that resonate with you takes time. It can be lonely to do alone, and too constrained with a potential cofounder. Often the best setups are informal get-togethers where people share what they’re exploring, without trying to impress anyone. [Calvin](https://www.linkedin.com/in/calvinfo/) is running one of these get-togethers in NYC right now.
 
-Being a founder is like “chewing glass and staring into the abyss”[0], but with the right emotional connection to solving a problem, the glass is sweet, and the abyss sparkles.
+Being a founder is like “chewing glass and staring into the abyss”[0], but with the right emotional connection to solving a problem, the glass is nourishing, and the abyss sparkles.
 
 
-
+<p></p>
 
 
 
