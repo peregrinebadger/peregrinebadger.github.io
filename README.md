@@ -40,7 +40,6 @@ Cast a wide net. When the [Cobalt Robotics](https://www.linkedin.com/company/cob
 \
 Vulnerable interviews can also create a deep emotional connection to solving a problem. When the [Cocoon](https://www.linkedin.com/company/meetcocoon/)  founders started out, they didn’t have a deep connection to parental leave. At the time, none of the founders had any children. What they did have was a personal connection to nearing motherhood and an emotional openness to new ideas. When a friend shared the emotional distress of trying to take leave “Filing for maternity leave on my laptop while getting wheeled into a C-section” the founders were inspired to build software to make the experience better.   
 \
-\
 Finding ideas that resonate with you takes time. It can be lonely to do alone, and too constrained with a potential cofounder. Often the best setups are informal get-togethers where people share what they’re exploring, without trying to impress anyone. [Calvin](https://www.linkedin.com/in/calvinfo/) is running one of these get-togethers in NYC right now.
 \
 \
