@@ -23,7 +23,7 @@ For the people who learn from these experiences and thrive, they create in the p
 \
 \
 The hard part is being patient and honest enough to keep looking until you find your special connection.
-\
+
  
 ## Finding A Problem
 To find your problem area, figure out what you love to do and what change you want to create. Ask your mentors what they thought you’d end up doing when you first met. Ask them what you enjoyed most in high school and undergrad. Ask people you’re close to what they associate with you. Ask them what you really care about. Ask them for the one-liner they use to describe you.
