@@ -12,8 +12,7 @@ You won’t.
 To successfully overcome the challenges in a startup, you need\:
   - A deeply emotional, unyielding commitment to solve a problem
   - The ability to do painfully vulnerable self-assessments to know if you’re the one to solve it.
-\
-\
+
 This commitment flows from a well that lies deep within someone’s character. This well is created when formational experiences happen over years.
 \
 \
