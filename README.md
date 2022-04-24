@@ -9,7 +9,7 @@ You can spend months working on the company when you aren’t deeply committed. 
 You won’t.
 \
 \
-To successfully overcome the challenges in a startup, you need:
+To successfully overcome the challenges in a startup, you need\:
   - A deeply emotional, unyielding commitment to solve a problem
   - The ability to do painfully vulnerable self-assessments to know if you’re the one to solve it.
 \
