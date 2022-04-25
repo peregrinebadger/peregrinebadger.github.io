@@ -42,7 +42,6 @@ Cast a wide net. I worked at a security robot company called [Cobalt Robotics](h
 \
 Interviews where you build a personal connection with the interviewee can also create a deep emotional connection to solving a problem. When my wife thought about starting [Cocoon](https://www.linkedin.com/company/meetcocoon/)  neither she nor her cofounders had a deep connection to parental leave. At the time, none of them had any children. What they did have was a personal connection to nearing motherhood and an emotional openness to new ideas. When a friend shared the emotional distress of trying to take leave “Filing for maternity leave on my laptop while getting wheeled into a C-section” they were inspired to build software to make the experience better.   
 \
-\
 Finding ideas that resonate with you takes time. It can be lonely to do alone, and too constrained with a potential cofounder. Often the best setups are informal get-togethers where people share what they’re exploring, without trying to impress anyone.
 \
 \
